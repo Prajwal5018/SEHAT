@@ -131,17 +131,21 @@ Decision Intelligence
 ## Future Scope
 
 - Multi-hospital integration
-- State-wide workforce coordination
-- AI-assisted healthcare planning
-- Predictive healthcare operations
+- AI-based shift scheduling
+- Predict disease outbreaks
 
 ---
 
 ## Team
 
-Developed by Team SEHAT
+The Team: NOTHING
 
----
+Built with passion at Canara Engineering College for the Coastal Innovation Hackathon 2026
+
+Kritharth Jain (Team Leader)
+Mahalaxmi Vishnu Shanbhag
+Jeevan Chandrahas Naik
+Prajwal Nagaraj Shet
 
 ## License
 
