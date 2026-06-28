@@ -140,7 +140,7 @@ Decision Intelligence
 
 **The Team: NOTHING**
 
-*Innovating Healthcare Through AI and Smart Workforce Intelligence*
+*Representing Canara Engineering College at the Coastal Innovation Hackathon 2026*
 
 • **Kritharth Jain** *(Team Leader)*
 
