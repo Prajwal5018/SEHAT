@@ -138,14 +138,18 @@ Decision Intelligence
 
 ## Team
 
-The Team: NOTHING
+**The Team: NOTHING**
 
-Built with passion at Canara Engineering College for the Coastal Innovation Hackathon 2026
+*Innovating Healthcare Through AI and Smart Workforce Intelligence*
 
-Kritharth Jain (Team Leader)
-Mahalaxmi Vishnu Shanbhag
-Jeevan Chandrahas Naik
-Prajwal Nagaraj Shet
+• **Kritharth Jain** *(Team Leader)*
+
+• **Mahalaxmi Vishnu Shanbhag**
+
+• **Jeevan Chandrahas Naik**
+
+• **Prajwal Nagaraj Shet**
+
 
 ## License
 
